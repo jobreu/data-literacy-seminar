@@ -1,0 +1,5 @@
+install.packages("readr", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("tidyr", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("magrittr", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("dplyr", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("ggplot2", repos = "https://cloud.r-project.org/", dependencies=TRUE)
