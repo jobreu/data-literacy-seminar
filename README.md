@@ -10,7 +10,7 @@ Drücken Sie den "Launch Binder"-Button, um die Online-Umgebung für die interak
 
 Wenn sie den "Launch Binder"-Button drücken, öffnet sich eine [Jupyter-Lab-Umgebung](https://jupyterlab.readthedocs.io/en/stable/). Die interaktiven *Jupyter Notebooks* sind die `.ipynb`-Dateien, die Sie links im File-Explorer-Menü im *Jupyter Lab* sehen werden.
 
-![Jupyter Lab Screenshot](jupyter_lab_screenshot.jpg)
+![](https://github.com/jobreu/data-literacy-seminar/blob/main/jupyter_lab_screenshot.png)
 
 Ein Hinweis zur Nutzung von *GESIS Notebooks*: 
 Alle Änderungen, die Sie in den Notebooks vornehmen, sind nicht persistent (d.h. sie gelten nur für die aktuelle Nutzungssession). Wenn Sie die geänderten Notebooks weiterverwenden möchten, können Sie diese entweder herunterladen (wie dies geht, wird im Notebook `jupyter_intro.ipynb` erklärt) und lokal speichern und nutzen, oder Sie erstellen sich einen Nutzer\*innen-Account, indem Sie auf der [*GESIS-Notebooks*-Webseite](https://notebooks.gesis.org/) auf *Login* oder *Try it now* klicken und dann auf *You are not yet registered?*. Authentifizierte Benutzer\*innen können nicht nur ihre Änderungen speichern, sondern bekommen auch mehr Arbeitsspeicher für ihre Notebooks zugewiesen und haben ein längeres Zeitlimit für ein Timeout durch Inaktivität (weitere Informationen finden Sie in den [*GESIS-Notebook*-FAQs](https://notebooks.gesis.org/faq/)).
