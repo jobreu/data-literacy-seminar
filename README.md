@@ -8,7 +8,7 @@ Drücken Sie den "Launch Binder"-Button, um die Online-Umgebung für die interak
 
 [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/jobreu/data-literacy-seminar/main?urlpath=lab)
 
-Wenn sie den "Launch Binder"-Button drücken, öffnet sich eine [Jupyter-Lab-Umgebung](https://jupyterlab.readthedocs.io/en/stable/). Die interaktiven *Jupyter Notebooks* sind die `.ipynb`-Dateien, die Sie links im File-Explorer-Menü im *Jupyter Lab* sehen werden.
+Wenn sie den "Launch Binder"-Button drücken, öffnet sich eine [Jupyter-Lab-Umgebung](https://jupyterlab.readthedocs.io/en/stable/). Die interaktiven *Jupyter Notebooks* sind die `.ipynb`-Dateien, die Sie links im File-Explorer-Menü im *Jupyter Lab* sehen werden. Diese können Sie durch einen Doppelklick auf den Dateinamen öffnen.
 
 ![](https://github.com/jobreu/data-literacy-seminar/blob/main/jupyter_lab_screenshot.png)
 
