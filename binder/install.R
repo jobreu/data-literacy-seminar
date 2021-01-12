@@ -8,5 +8,4 @@ install.packages("lubridate", repos = "https://cloud.r-project.org/", dependenci
 install.packages("scales", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("stringr", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("tidytext", repos = "https://cloud.r-project.org/", dependencies=TRUE)
-install.packages("stopwords", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("wordcloud", repos = "https://cloud.r-project.org/", dependencies=TRUE)
