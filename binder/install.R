@@ -10,3 +10,4 @@ install.packages("stringr", repos = "https://cloud.r-project.org/", dependencies
 install.packages("tidytext", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("wordcloud", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("cld3", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("purrr", repos = "https://cloud.r-project.org/", dependencies=TRUE)
